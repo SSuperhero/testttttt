@@ -8,4 +8,5 @@ package com.itheima;
  * 描述:
  */
 public class ffff {
+    private  int a;
 }
