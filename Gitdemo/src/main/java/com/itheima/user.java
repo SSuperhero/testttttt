@@ -8,7 +8,7 @@ package com.itheima;
  * 描述:
  */
 public class user {
-    private String name;
-    private int age;
-    private int rrrrr;
+    private  String   name;
+    private  int age;
+    private  int  rrrrr;
 }
